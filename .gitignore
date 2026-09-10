@@ -11,3 +11,9 @@ wheels/
 
 # macOS
 .DS_Store
+
+# SQLite Databases
+*.db
+*.db-wal
+*.db-shm
+expenses.db
